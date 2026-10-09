@@ -1,0 +1,6 @@
+{
+  "name": "EduPredict",
+  "description": "AI-Based Predictive Analysis of Student Academic Performance",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
